@@ -1,12 +1,20 @@
 # p300_speller
 
+
 cod for p300 speller in matlab 
-%%
-______
-% p300 speller 
+
+
+______ 
+
+
 %%frame_rate (每次閃的時間)
+
+
 %%trial (實驗刺激數)
+
+
 %%sound :25 (聽到25個子母的其中五個)
+
 function p300_speller() 
 clc
 clear all 
