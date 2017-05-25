@@ -1,6 +1,9 @@
 # p300_speller
+
 cod for p300 speller in matlab 
+
 %%
+
 ______
 % p300 speller 
 %%frame_rate (每次閃的時間)
